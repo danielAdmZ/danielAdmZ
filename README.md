@@ -1,8 +1,9 @@
 <img src="Daniel Vad.png" alt="Imagen de inicio">
 
-## Hola mi nombres Daniel 
-## Soy Lic. en Sistemas Computacionales y llevo estudiando en el campo por más 8 años.
-
+<h1>Hola soy Daniel Vadillo ✌️ </h1>
+<h2> Soy Lic. en Sistemas Computacionales con más de 7 años estudiando en el campo de la programación</h2>
+<br>
+<h3>Actualmente estoy buscando un trabajo donde pueda aplicar mis conocimientos como desarrollador Front-end</h3>
 <!--
 **danielAdmZ/danielAdmZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
