@@ -1,8 +1,8 @@
 <img src="Daniel Vad.png" alt="Imagen de inicio">
 
-<p styles="font-size:2rem;" >Acerca de mi</p>
+<h1>Acerca de mi✌️ </h1>
 <br>
-<p>Soy Lic. Sistemas computacionales y desarrollador Freelance desde hace 3 años.</p>
+<p >Soy Lic. Sistemas computacionales y desarrollador Freelance desde hace 3 años.</p>
 <p>Actualmente me encuentro buscando un trabajo estable donde pueda aplicar todos mis conocimientos que logrado aprender durante mi aprendizaje como estudiante y Freelance</p>
 <p>Actualmente me encuentro trabajando en proyectos personales como</p>
 <ul>
@@ -10,6 +10,9 @@
     <li>Sistema de seguridad</li>
     <li>Sistema para Domotica</li>
 </ul>
+
+<img src="footer.png" alt="Imagen de inicio">
+
 <!--
 **danielAdmZ/danielAdmZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
