@@ -1,6 +1,6 @@
 <img src="Daniel Vad.png" alt="Imagen de inicio">
 
-<p style="color:#000" >Acerca de mi</p>
+<p style="font-size:2rem;" >Acerca de mi</p>
 <br>
 <p>Soy Lic. Sistemas computacionales y desarrollador Freelance desde hace 3 años.</p>
 <p>Actualmente me encuentro buscando un trabajo estable donde pueda aplicar todos mis conocimientos que logrado aprender durante mi aprendizaje como estudiante y Freelance</p>
