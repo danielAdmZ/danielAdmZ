@@ -1,5 +1,8 @@
-## Hi there 👋
-<img src="Daniel Vad.png">
+<img src="Daniel Vad.png" alt="Imagen de inicio">
+
+## Hola mi nombres Daniel 
+## Soy Lic. en Sistemas Computacionales y llevo estudiando en el campo por más 8 años.
+
 <!--
 **danielAdmZ/danielAdmZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
