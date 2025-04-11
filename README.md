@@ -11,7 +11,7 @@
     <li>Sistema para Domotica</li>
 </ul>
 
-<img src="Final.png.png" alt="Imagen de inicio">
+<img src="Final.png" alt="Imagen de inicio">
 
 <!--
 **danielAdmZ/danielAdmZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
